@@ -1,0 +1,6 @@
+bin/
+obj/
+.build/
+.terraform/
+*.tfstate*
+lambda.zip
